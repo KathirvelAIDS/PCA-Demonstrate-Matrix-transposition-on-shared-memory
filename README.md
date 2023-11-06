@@ -20,9 +20,9 @@ To demonstrate the Matrix transposition on shared memory with grid (1,1) block (
 
 ## Program :
 ```
-DEVELOPED BY : GEORGE PAUL TONY .C
+DEVELOPED BY : KATHIRVEL.A
 
-REGISTER NO : 212222040043
+REGISTER NO : 212221230047
 ```
 ```
 #include "common.h"
